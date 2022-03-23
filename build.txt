@@ -1,0 +1,3 @@
+displayName = Elemental_Swords
+author = CoreHunter
+version = 0.1
